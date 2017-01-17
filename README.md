@@ -1,0 +1,2 @@
+# pointless
+miscellaneous placeholder repository
